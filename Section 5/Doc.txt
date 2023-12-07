@@ -1,0 +1,11 @@
+CSS
+How to add CSS?
+    - inline
+    - internal
+    - external
+Css Selector
+    - element Selector
+    - class Selector
+    - id Selector
+    - attribute Selector (using attribute = "true/false...")
+    - universal Selector (using '*' ) 
