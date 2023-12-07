@@ -1,0 +1,22 @@
+CSS Color
+    - property: value;
+    - colorhunt.co
+    - value: rgb or hex_code
+    - background-color || color
+Font properties
+    - font-size: kích thước font chữ (font-size: 20px;)
+        (1px = 0.26mm)-Pixel (1pt = 0.35mm)-Point
+        (1em: 100% of parent) (1rem: 100% of root)
+    - font-weight:
+        +, keywords: normal, bold...
+        +, Relative to parent: lighter, bolder...
+        +, 100-900: number
+    -font-family:
+        +, font-family: Helvetica, sans-serif
+                        (Typeface) sans-serif là font dự phòng
+        +, font-family: "Times New Roman", serif
+                        Nhiều từ thì để trong ""
+        +, fonts.google.com
+    - TextAlign: center, start, end, left, right....
+Box
+        
